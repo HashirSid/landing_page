@@ -88,9 +88,12 @@
 .overlapping-para {
   color: #FFFFFF;
   font-size: 20px;
-  font-weight: 600;
-  margin-top: 20px;
+  font-weight: 400;
+  margin-top: 10px;
   text-align: center;
+  letter-spacing: 1px;
+  margin-bottom: 5px;
+  letter-spacing: 1.5px;
 }
 
 .logo-container-1 {
@@ -432,7 +435,7 @@
   }
 }
 
-@media (max-width: 768px) {
+@media (max-width: 810px) {
   .menu-item {
     margin-left: 100px;
     cursor: pointer;
